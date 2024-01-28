@@ -1,26 +1,21 @@
-# Análise de Missões Espaciais ao Longo dos Anos
-Nesta análise, exploraremos relatórios detalhados de missões espaciais realizadas ao longo dos anos. O objetivo é extrair insights valiosos que possam fornecer uma compreensão mais profunda das conquistas, desafios e tendências no campo das explorações espaciais. Através da análise de dados meticulosa, buscamos revelar padrões e informações significativas que contribuam para o entendimento do progresso e da evolução das missões espaciais. Vamos embarcar nessa jornada de descobertas e análises para ampliar nosso conhecimento sobre as atividades espaciais.
+# Analysis of Space Missions Over the Years
+In this analysis, we will explore detailed reports of space missions conducted over the years. The goal is to extract valuable insights that can provide a deeper understanding of achievements, challenges, and trends in the field of space exploration. Through meticulous data analysis, we aim to reveal patterns and significant information contributing to the understanding of the progress and evolution of space missions. Let's embark on this journey of discoveries and analysis to broaden our knowledge about space activities.
 
-## Pergunta 1: Quantas vezes cada empresa levou foguetes para o espaço?
-A análise revelou que a empresa "RVSN USSR" lidera em termos de quantidade de lançamentos, com um total de 1777 missões espaciais.
+## Question 1: How many times did each company launch rockets into space?
+The analysis revealed that the company "RVSN USSR" leads in terms of the quantity of launches, with a total of 1777 space missions.
 
-## Pergunta 2: Quantos lançamentos de foguetes já ocorreram ao longo da história?
-A análise abordou o número total de lançamentos ao longo dos anos, mostrando uma evolução desde 1957 até 2022, totalizando 4626 lançamentos.
+## Question 2: How many rocket launches have occurred throughout history?
+The analysis addressed the total number of launches over the years, showing an evolution from 1957 to 2022, totaling 4626 launches.
 
-## Pergunta 3: Quais são as principais empresas que realizaram os lançamentos? (Ranking)
-Um ranking das empresas que mais realizaram lançamentos foi criado. A empresa "RVSN USSR" novamente lidera a lista, seguida por outras organizações como "CASC" e "Arianespace".
+## Question 3: What are the top companies that conducted the launches? (Ranking)
+A ranking of the companies that conducted the most launches was created. The company "RVSN USSR" again tops the list, followed by other organizations such as "CASC" and "Arianespace".
 
-## Pergunta 4: Qual foi o ano com o maior número de lançamentos de foguetes?
-A análise destacou que o ano de 2021 registrou o maior número de lançamentos, com 157 missões espaciais.
+## Question 4: What year had the highest number of rocket launches?
+The analysis highlighted that the year 2021 recorded the highest number of launches, with 157 space missions.
 
-## Pergunta 5: Quais são os locais que mais tiveram lançamentos de foguetes?
-A análise dos locais identificou que o "Site 31/6, Baikonur Cosmodrome, Kazakhstan" lidera em número de lançamentos, seguido por outras localidades como Plesetsk Cosmodrome e Guiana Space Centre.
+## Question 5: What are the locations that had the most rocket launches?
+The analysis of locations identified that "Site 31/6, Baikonur Cosmodrome, Kazakhstan" leads in the number of launches, followed by other locations like Plesetsk Cosmodrome and Guiana Space Centre.
 
-Além disso, gráficos visuais foram gerados para proporcionar uma compreensão mais clara e intuitiva dos resultados, incluindo gráficos de barras horizontais, gráfico de linha para a evolução ao longo dos anos, gráficos de barras para empresas e anos específicos, e gráficos geográficos para os locais mais ativos.
+Additionally, visual charts were generated to provide a clearer and more intuitive understanding of the results, including horizontal bar charts, a line chart for the evolution over the years, bar charts for specific companies and years, and geographical charts for the most active locations.
 
-Essa análise fornece uma visão abrangente das atividades espaciais ao longo dos anos, destacando os principais participantes, períodos de alta atividade e locais mais frequentemente utilizados. Esses insights podem ser valiosos para compreender a evolução e as tendências das missões espaciais.
-
-
-
-
-
+This analysis provides a comprehensive view of space activities over the years, highlighting key participants, periods of high activity, and most frequently used locations. These insights can be valuable for understanding the evolution and trends of space missions.
